@@ -1,0 +1,5 @@
+Versiya -> 12.13.3
+
+12 -> Major
+13 -> Minor
+3 -> Patch
